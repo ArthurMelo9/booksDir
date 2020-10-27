@@ -68,7 +68,7 @@ module.exports = [
   },
   {
     "isbn": "9781449325862",
-    "title": "Git Pocket Guide",
+    "title": "Git Pocket  Guide",
     "subtitle": "A Working Introduction",
     "author": "Richard E. Silverman",
     "published": "2013-08-02T00:00:00.000Z",
